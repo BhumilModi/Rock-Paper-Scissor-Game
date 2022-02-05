@@ -1,23 +1,4 @@
 @font-face {
-  font-family: "Vegan";
-  src: url("../vegan-style-font/VeganStylePersonalUse-5Y58.ttf")
-    format("truetype");
-}
-@font-face {
-  font-family: "Hamburg";
-  src: url("../hamburg-font/Hamburg-JRA57.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Black-Bone";
-  src: url("../black-bone-script-font/Blackbonescript-gxJZ5.ttf")
-    format("truetype");
-}
-@font-face {
-  font-family: "Gore";
-  src: url("../2783721-gore-typeface/Webfonts/Gore\ Regular.woff")
-    format("woff");
-}
-@font-face {
   font-family: "Mulan";
   src: url("../mulan/Mulan.ttf") format("truetype");
 }
