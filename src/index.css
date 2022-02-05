@@ -1,13 +1,27 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: "Vegan";
+  src: url("../vegan-style-font/VeganStylePersonalUse-5Y58.ttf")
+    format("truetype");
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: "Hamburg";
+  src: url("../hamburg-font/Hamburg-JRA57.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Black-Bone";
+  src: url("../black-bone-script-font/Blackbonescript-gxJZ5.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "Gore";
+  src: url("../2783721-gore-typeface/Webfonts/Gore\ Regular.woff")
+    format("woff");
+}
+@font-face {
+  font-family: "Mulan";
+  src: url("../mulan/Mulan.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Dino";
+  src: url("../dino-star-font/DinoStarDemo-z85r1.ttf") format("truetype");
 }
